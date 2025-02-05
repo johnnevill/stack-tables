@@ -1,4 +1,4 @@
-ascii-tables
+stack-tables
 ============
 
 Quickly format tables for stackoverflow
