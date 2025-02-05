@@ -103,7 +103,7 @@ function createTable() {
         rows.splice(0, 0, letterRow); // add as first row
     }
 
-    var style = $('#style').val();
+    var style = 'gfm';
     var hasHeaderSeparators = true; // Defaults to including a separator line btwn header and data rows
     var hasLineSeparators = false; // Defaults to no separator lines btwn data rows
     var hasTopLine = true; // Defaults to including the topmost line

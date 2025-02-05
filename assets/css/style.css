@@ -69,14 +69,20 @@ footer {
     padding-top: 20px;
     color: inherit;
 	text-align: center;
+    color: #FFFFFF;
 	position: absolute;
 	right: 0;
 	bottom: 0;
 	left: 0;
 }
 
+footer a{
+    color: #f1a138;
+}
+
 header, footer {
-    background-color: #3CC255 !important;
+    background-color: #404140 !important;
+    color: #FFFFFF !important;
 }
 
 abbr[title] {
