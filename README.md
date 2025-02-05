@@ -26,4 +26,4 @@ Press **Create Table** to get something like:
 
 ## License
 
-WTFPL. Do whatever the hell you want with it.
+WTFPL. Do whatever you want with it.
