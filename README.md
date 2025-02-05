@@ -11,7 +11,7 @@ Separate	cols    with a tab or 4 spaces	-2,027.1
 This is a row with only one cell
 ```
 
-Press **Create Table** to get something like:
+And it will generate markdown for stackoverflow
 
 
 ### ASCII table (Stackoverflow markdown)
