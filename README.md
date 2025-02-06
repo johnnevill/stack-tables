@@ -1,7 +1,7 @@
 stack-tables
 ============
 
-Quickly format tables for stackoverflow
+Quickly format tables for stackoverflow!
 ### Input text like this
 
 ```
